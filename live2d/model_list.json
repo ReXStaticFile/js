@@ -1,0 +1,10 @@
+{
+    "models": [
+        "Potion-Maker/Pio",
+        "Potion-Maker/Tia"
+    ],
+    "messages": [
+        "我是来自 Potion Maker 的 Pio 酱 ~ 请多指教",
+        "我是来自 Potion Maker 的 Tia 酱 ~ 请多指教"
+    ]
+}

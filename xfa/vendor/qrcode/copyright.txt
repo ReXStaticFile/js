@@ -1,0 +1,1 @@
+jQuery qrcode from Jerome Etienne http://jeromeetienne.github.io/jquery-qrcode/
